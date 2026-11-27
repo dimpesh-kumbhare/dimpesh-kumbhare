@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**dimpesh-kumbhare/dimpesh-kumbhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Dimpesh Kumbhare 👋
 
-Here are some ideas to get you started:
+### Aspiring AI & Machine Learning Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Interested in Artificial Intelligence and Data Science.
+
+💻 Learning Python, Machine Learning and Data Analytics.
+
+🔍 Interested in AI evaluation and building practical projects.
+
+🌱 Currently improving my programming and problem-solving skills.
+
+### 🛠️ Technical Skills
+- Python
+- Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- SQL
+- Data Preprocessing
+- Exploratory Data Analysis
+
+### 📂 Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Interpretable AI
+- AI Model Evaluation
+
+### 🎯 Current Goals
+- Build real-world Python projects.
+- Develop practical ML models.
+- Improve problem-solving skills.
+- Contribute to GitHub projects.
+
+### 📫 Connect With Me
+- LinkedIn: Add your LinkedIn URL here
+- GitHub: https://github.com/YOUR_USERNAME
