@@ -37,4 +37,4 @@
 
 ### 📫 Connect With Me
 - LinkedIn: Add your LinkedIn URL here
-- GitHub: [https://github.com/YOUR_USERNAME](https://github.com/dimpesh-kumbhare)
+- GitHub: [Dimpesh Kumbhare](https://github.com/dimpesh-kumbhare)
